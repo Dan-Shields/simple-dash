@@ -21,19 +21,9 @@ body {
 	display: grid;
 }
 #itemlist {
-	display: inline-grid;
-	grid-template-columns: repeat(2, 1fr);
+	display: flex;
+	flex-wrap: wrap;
 	margin: auto;
-}
-@media only screen and (min-width: 600px) {
-	#itemlist {
-		grid-template-columns: repeat(3, 1fr);
-	}
-}
-@media only screen and (min-width: 800px) {
-	#itemlist {
-		grid-template-columns: repeat(6, 1fr);
-	}
 }
 
 #itemlist {

@@ -1,0 +1,30 @@
+{
+	"title" : "Daniel Shields",
+	"items" : [
+		{
+			"alt" : "Github",
+			"icon" : "fab fa-github",
+			"link" : "https://github.com/Dan-Shields"
+		},
+		{
+			"alt" : "Twitter",
+			"icon" : "fab fa-twitter",
+			"link" : "https://twitter.com/DanShieldsUK"
+		},
+		{
+			"alt": "Email",
+			"icon": "fas fa-at",
+			"link": "mailto:d@shieldsuk.me"
+		},
+		{
+			"alt" : "Linkedin",
+			"icon" : "fab fa-linkedin-in",
+			"link" : "https://www.linkedin.com/in/dan98/"
+		},
+		{
+			"alt": "Steam",
+			"icon": "fab fa-steam",
+			"link": "https://steamcommunity.com/id/daan_bread"
+		}
+	]
+}
